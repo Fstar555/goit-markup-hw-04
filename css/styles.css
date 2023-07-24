@@ -415,7 +415,8 @@ img {
 .customers {
   padding: 120px 0;
 }
-.container {
+.container-customers {
+  border: none;
 }
 
 .customers-title {
